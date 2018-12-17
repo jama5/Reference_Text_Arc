@@ -19,16 +19,16 @@ text ("I", 250, 100);
 fill (0,64,173);
   textAlign (CENTER);
   textSize (120);
-  text("AM",230,250);
+  text("JSX",230,250);
   
   fill (random (0,255));
   textAlign (CENTER, TOP);
   textSize (150);
-  text ("ARD",350,350);
+  text ("AXHD",350,350);
   
   fill (100,213,132);
   textSize (150);
-  text ("B",30,350);
+  text ("K",30,350);
    
    noFill();
    strokeWeight(5);
